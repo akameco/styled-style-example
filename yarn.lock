@@ -3099,6 +3099,10 @@ flatten@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/flatten/-/flatten-1.0.2.tgz#dae46a9d78fbe25292258cc1e780a41d95c03782"
 
+flow-bin@^0.64.0:
+  version "0.64.0"
+  resolved "https://registry.yarnpkg.com/flow-bin/-/flow-bin-0.64.0.tgz#ddd3fb3b183ab1ab35a5d5dec9caf5ebbcded167"
+
 flush-write-stream@^1.0.0:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/flush-write-stream/-/flush-write-stream-1.0.2.tgz#c81b90d8746766f1a609a46809946c45dd8ae417"
@@ -7149,9 +7153,9 @@ style-loader@0.19.1:
     loader-utils "^1.0.2"
     schema-utils "^0.3.0"
 
-styled-style@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/styled-style/-/styled-style-0.1.0.tgz#f8b47fee4ca481acdfba92a1ab1595ed9e75c534"
+styled-style@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/styled-style/-/styled-style-0.1.1.tgz#d6e91b186569d98cb0cb2818eb81fb30d4d05c8a"
 
 supports-color@^2.0.0:
   version "2.0.0"

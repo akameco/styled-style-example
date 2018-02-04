@@ -1,6 +1,8 @@
+// @flow
 import * as React from 'react'
-import { styledStyle } from 'styled-style'
 import logo from './logo.svg'
+
+import { styledStyle } from 'styled-style'
 import styles from './App.module.css'
 
 const { div, header, h1, p, img } = styledStyle(styles)
@@ -11,7 +13,7 @@ const Title = h1('title')
 const Intro = p('intro')
 const Logo = img('logo')
 
-class App extends React.Component {
+class App extends React.Component<{}> {
   render() {
     return (
       <Wrapper>
