@@ -1,4 +1,6 @@
 # styled-style-example
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/akameco/styled-style-example.svg)](https://greenkeeper.io/)
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 
 >  styled-style sample with create-react-app v2.
