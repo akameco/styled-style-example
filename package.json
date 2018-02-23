@@ -6,7 +6,7 @@
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
     "react-scripts": "^2.0.0-next.9754a231",
-    "styled-style": "^0.5.0"
+    "styled-style": "^0.6.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -29,6 +29,6 @@
   },
   "devDependencies": {
     "all-contributors-cli": "^4.10.1",
-    "flow-bin": "^0.64.0"
+    "flow-bin": "^0.66.0"
   }
 }
